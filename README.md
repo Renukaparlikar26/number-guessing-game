@@ -38,7 +38,7 @@ No external libraries are required because this project only uses Python's built
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/number-guessing-game.git
+git clone https://github.com/Renukaparlikar26/number-guessing-game.git
 ```
 
 ### 2️⃣ Navigate to the project folder
@@ -72,11 +72,11 @@ python number_guess.py
 ```
 number-guessing-game/
 │
-├── number_guess.py      # Main game file
-├── README.md            # Project documentation
-└── images/
-    ├── screenshot.png   # Game screenshot
-    └── game-preview.gif # Gameplay preview
+├── images/
+│   └── screenshot.png
+│
+├── number_guess.py
+└── README.md
 ```
 
 ---
@@ -85,11 +85,7 @@ number-guessing-game/
 
 ### Screenshot
 
-![Game Screenshot](images/screenshot.png)
-
-### Gameplay
-
-![Gameplay](images/game-preview.gif)
+![Number Guessing Game](images/numbergame-img.png)
 
 ---
 
@@ -128,16 +124,9 @@ If you'd like to improve this project:
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
 ## 🧑‍💻 Author
 
 **Renuka**
 
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/Renukaparlikar26
 
-If you like this project, don't forget to ⭐ the repository!
