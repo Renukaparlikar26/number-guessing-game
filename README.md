@@ -85,7 +85,7 @@ number-guessing-game/
 
 ### Screenshot
 
-![Number Guessing Game](images/numbergame-img.png)
+![Number Guessing Game](images/numbergame.png)
 
 ---
 
